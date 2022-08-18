@@ -1,4 +1,7 @@
 # KU Cafe
+
+[Breakfast](#Breakfast) | [Lunch](#Lunch) | [Dinner](#Dinner) | [Night Food](#Night-Food) | [Beverages](#Beverages)
+
 ## Drive-Thru
 ### Breakfast
 

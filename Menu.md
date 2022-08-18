@@ -24,6 +24,12 @@
 
 ## Night Food
 
+| Menu                     | Price    |
+|:-------------------------|----------|
+| Meat                     | 590      |
+| Salads Kale              | 150      |
+| Truffle Fries            | 620      |
+| Nachos                   | 120      |
 
 ## Beverages
 

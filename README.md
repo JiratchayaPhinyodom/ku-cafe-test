@@ -1,5 +1,7 @@
 # KU Cafe
 
+[Breakfast](#Breakfast) | [Lunch](#Lunch) | [Dinner](#Dinner) | [Night Food](#Night-Food) | [Beverages](#Beverages)
+
 Section1 | Section2 | Section3 | ...
 
 **TODO**: Convert the useless "Section1 | Section2 ..." to a **single line** containing hyperlinks to each section of the menu.

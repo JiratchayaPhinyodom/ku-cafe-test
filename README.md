@@ -13,7 +13,7 @@ You learned the Markdown to do this in the `git-commands` assignments.
 
 Here is how to create a table using Markdown:
 
-| Column 1                 | Column 2 |
+| Oil                      | Price    |
 |:-------------------------|----------|
 | Gasohol 91               | 36.28    |
 | Gasohol E20              | 35       |

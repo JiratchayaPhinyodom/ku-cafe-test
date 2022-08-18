@@ -16,9 +16,9 @@
 |:-------------------------------|----------|
 | Tom Yum Soup With Coconut Milk |    150   |
 | The Waterfall Beef Salad       |    85    |
-| Wagyu Steak  (400g)            |    320   |
-| Thai Green Curry               |    120   |
-| Chicken Hawaiian (size L)      |    420   |
+| Wagyu Steak  (400g)            |    350   |
+| Thai Green Curry               |    100   |
+| Chicken Hawaiian (size L)      |    320   |
 
 
 ## Night Food

@@ -1,6 +1,5 @@
 # KU Cafe
 ## Drive-Thru
-
 ### Breakfast
 
 | Menu               | Price |
@@ -46,7 +45,6 @@
 | Iced Green Tea Latte     | 65       |
 | Roses Tea                | 45       |
 | Brewed Coffee Hot        | 40       |
-
 
 ## About Us
 

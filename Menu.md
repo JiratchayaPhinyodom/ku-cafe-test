@@ -27,13 +27,13 @@
 
 ## Beverages
 
-| Beverages                | Price    |
+| Menu                     | Price    |
 |:-------------------------|----------|
-| Yuzu Cold Brew           | 145      |
-| Iced Chocolate           | 115      |
-| Iced Green Tea Latte     | 140      |
-| Roses Tea                | 110      |
-| Brewed Coffee Hot        | 110      |
+| Yuzu Cold Brew           | 70       |
+| Iced Chocolate           | 55       |
+| Iced Green Tea Latte     | 65       |
+| Roses Tea                | 45       |
+| Brewed Coffee Hot        | 40       |
 
 
 ---

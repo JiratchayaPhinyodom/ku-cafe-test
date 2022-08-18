@@ -4,9 +4,9 @@
 | Menu                     | Price    |
 |:-------------------------|----------|
 | Waffles                  | 60       |
-| Two Egg Breakfast        | 35       |
+| Two Eggs Breakfast        | 35       |
 | Sandwich                 | 50       |
-| Coffee                   | 40       |
+| Coffee                   | 20       |
 
 ## Lunch 
 

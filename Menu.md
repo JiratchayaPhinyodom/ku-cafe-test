@@ -8,8 +8,12 @@
     (use proper Markdown formatting, not literal text like this)
 
 ## Lunch 
-
-
+| Menu                     | Price    |
+|:-------------------------|----------|
+| Cha Om Kai               | 40       |
+| Thai Noodle with pork    | 35       |
+| Tom sap                  | 100      |
+| Soup Neua                | 80       |
 ## Dinner
 
 
